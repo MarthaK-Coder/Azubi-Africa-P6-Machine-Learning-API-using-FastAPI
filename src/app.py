@@ -4,7 +4,7 @@ from pydantic import BaseModel
 import pandas as pd
 
 # Load the model and encoder
-model_pipeline = joblib.load('./model/xgb_pipeline.joblib')
+model_pipeline = joblib.load('../model/xgb_pipeline.joblib')
 #encoder = joblib.load('./encoder.joblib')
 
 app = FastAPI(title="Sepsis Prediction App", version="1.0")
