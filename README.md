@@ -71,6 +71,8 @@ Encapsulating the solution within a Docker container to ensure consistency and e
 
 ### Pushing to Docker Hub
 Pushing the Docker image to Docker Hub, facilitating accessibility and deployment on various platforms.
+link: https://hub.docker.com/repository/docker/marthakcoder/sespis-api/general
+![Docker Hub Screenshots](./screenshots/docker hub.JPG)
 
 ## Conclusion
 By combining machine learning, FastAPI, and Docker, we create a robust solution for predicting sepsis onset. The seamless integration of predictive analytics and healthcare demonstrates the potential for early intervention and improved patient outcomes. The titled approach, "Predicting Sepsis Onset using FastAPI: A Dockerized Machine Learning Approach," underscores the intersection of technology and healthcare for impactful predictive analytics.
