@@ -11,7 +11,6 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Business Understanding](#business-understanding)
-   - [Formulating Hypotheses and Questions](#formulating-hypotheses-and-questions)
 3. [Data Understanding](#data-understanding)
    - [Loading Datasets and Exploratory Data Analysis (EDA)](#loading-datasets-and-exploratory-data-analysis-eda)
 4. [Data Preparation](#data-preparation)
@@ -32,9 +31,7 @@
 Timely prediction of sepsis onset is crucial for enhancing patient outcomes in healthcare. This project explores the application of machine learning classification models to predict sepsis, encapsulating the solution within a Docker container and exposing it through FastAPI for seamless deployment.
 
 ## Business Understanding
-### Formulating Hypotheses and Questions
-**Hypothesis:** Early sepsis detection can significantly improve patient outcomes.
-**Question:** Can machine learning models accurately predict sepsis onset based on patient data?
+In shaping our project's trajectory, we center our attention on a critical healthcare challenge: predicting sepsis onset based on patient data. Our primary focus is to formulate hypotheses and questions that delve into the heart of this problem. The overarching hypothesis is rooted in the belief that early sepsis detection can significantly enhance patient outcomes.
 
 ## Data Understanding
 ### Loading Datasets and Exploratory Data Analysis (EDA)
