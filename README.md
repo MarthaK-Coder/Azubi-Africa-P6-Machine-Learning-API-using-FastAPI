@@ -64,13 +64,13 @@ Persisting selected models for easy deployment, eliminating the need for retrain
 FastAPI serves as the foundation for our API, designed to take patient data as input and return the predicted likelihood of sepsis onset.
 
 #### Screenshots
-![FastAPI Screenshots](screenshots/fastapi.jpg)
+![FastAPI Screenshots](./screenshots/fastapi.JPG)
 
 ### Docker Containerization
 Encapsulating the solution within a Docker container to ensure consistency and eliminate dependency issues across different environments.
 
 #### Screenshots
-![Docker Screenshots](screenshots/docker.jpg)
+![Docker Screenshots](./screenshots/docker.JPG)
 
 ### Pushing to Docker Hub
 Pushing the Docker image to Docker Hub, facilitating accessibility and deployment on various platforms.
